@@ -49,8 +49,8 @@
 抠图包括对猫头、狗头、人头、猫、狗、人体进行分割。包括宠物头、宠物身体、人头、人身体四个语义分割模型。同样对抠图后的头部进行关键点检测用于素材对齐，包括宠物头和人头两个关键点检测。
 ||||
 | :-: |:-:|:-:|
-|<img src="https://github.com/xuanandsix/myworks/blob/main/images/detseg/4clssega.gif" height="60%" width="60%">|<img src="https://github.com/xuanandsix/myworks/blob/main/images/detseg/4clssegc.gif" height="60%" width="60%">|<img src="https://github.com/xuanandsix/myworks/blob/main/images/detseg/4clssege.gif" height="60%" width="60%">|
-|<img src="https://github.com/xuanandsix/myworks/blob/main/images/detseg/4clssegb.gif" height="60%" width="60%">|<img src="https://github.com/xuanandsix/myworks/blob/main/images/detseg/4clssegd.gif" height="60%" width="60%">|<img src="https://github.com/xuanandsix/myworks/blob/main/images/detseg/4clssegf.gif" height="60%" width="60%">|
+|<img src="https://github.com/xuanandsix/myworks/raw/main/images/detseg/4clssega.gif" height="60%" width="60%">|<img src="https://github.com/xuanandsix/myworks/raw/main/images/detseg/4clssegc.gif" height="60%" width="60%">|<img src="https://github.com/xuanandsix/myworks/raw/main/images/detseg/4clssege.gif" height="60%" width="60%">|
+|<img src="https://github.com/xuanandsix/myworks/raw/main/images/detseg/4clssegb.gif" height="60%" width="60%">|<img src="https://github.com/xuanandsix/myworks/raw/main/images/detseg/4clssegd.gif" height="60%" width="60%">|<img src="https://github.com/xuanandsix/myworks/raw/main/images/detseg/4clssegf.gif" height="60%" width="60%">|
 
 与服务端大模型性能对比
 |语义分割模型|存储大小|mIOU|
@@ -65,20 +65,20 @@
 正常业务场景下效果展示
 ||||
 | :-: |:-:|:-:|
-|<img src="https://github.com/xuanandsix/myworks/blob/main/images/logodet/logodeta.gif" height="80%" width="80%">|<img src="https://github.com/xuanandsix/myworks/blob/main/images/logodet/logodetb.gif" height="80%" width="80%">|<img src="https://github.com/xuanandsix/myworks/blob/main/images/logodet/logodetc.gif" height="80%" width="80%">|
-|<img src="https://github.com/xuanandsix/myworks/blob/main/images/logodet/logodetd.gif" height="80%" width="80%">|<img src="https://github.com/xuanandsix/myworks/blob/main/images/logodet/logodete.gif" height="80%" width="80%">|<img src="https://github.com/xuanandsix/myworks/blob/main/images/logodet/logodetf.gif" height="80%" width="80%">|
+|<img src="https://github.com/xuanandsix/myworks/raw/main/images/logodet/logodeta.gif" height="80%" width="80%">|<img src="https://github.com/xuanandsix/myworks/raw/main/images/logodet/logodetb.gif" height="80%" width="80%">|<img src="https://github.com/xuanandsix/myworks/raw/main/images/logodet/logodetc.gif" height="80%" width="80%">|
+|<img src="https://github.com/xuanandsix/myworks/raw/main/images/logodet/logodetd.gif" height="80%" width="80%">|<img src="https://github.com/xuanandsix/myworks/raw/main/images/logodet/logodete.gif" height="80%" width="80%">|<img src="https://github.com/xuanandsix/myworks/raw/main/images/logodet/logodetf.gif" height="80%" width="80%">|
 
 复杂业务场景下效果展示
 ||||
 | :-: |:-:|:-:|
-|<img src="https://github.com/xuanandsix/myworks/blob/main/images/logodet/logodetg.gif" height="60%" width="60%">|<img src="https://github.com/xuanandsix/myworks/blob/main/images/logodet/logodeth.gif" height="70%" width="70%">|<img src="https://github.com/xuanandsix/myworks/blob/main/images/logodet/logodeti.gif" height="80%" width="80%">|
-|<img src="https://github.com/xuanandsix/myworks/blob/main/images/logodet/logodetj.gif" height="70%" width="70%">|<img src="https://github.com/xuanandsix/myworks/blob/main/images/logodet/logodetk.gif" height="70%" width="70%">|<img src="https://github.com/xuanandsix/myworks/blob/main/images/logodet/logodetl.gif" height="80%" width="80%">|
+|<img src="https://github.com/xuanandsix/myworks/raw/main/images/logodet/logodetg.gif" height="60%" width="60%">|<img src="https://github.com/xuanandsix/myworks/raw/main/images/logodet/logodeth.gif" height="70%" width="70%">|<img src="https://github.com/xuanandsix/myworks/raw/main/images/logodet/logodeti.gif" height="80%" width="80%">|
+|<img src="https://github.com/xuanandsix/myworks/raw/main/images/logodet/logodetj.gif" height="70%" width="70%">|<img src="https://github.com/xuanandsix/myworks/raw/main/images/logodet/logodetk.gif" height="70%" width="70%">|<img src="https://github.com/xuanandsix/myworks/raw/main/images/logodet/logodetl.gif" height="80%" width="80%">|
 
 
 5、智慧餐盘识别检测
 |餐厅真实使用效果展示|
 |:-:|
-|<img src="https://github.com/xuanandsix/myworks/blob/main/images/platedet/platedet.gif" height="75%" width="75%">|
+|<img src="https://github.com/xuanandsix/myworks/raw/main/images/platedet/platedet.gif" height="75%" width="75%">|
 
 ## 图像超分及风格迁移 <a name="srANDstyle"></a>
 1、宠物头及人头特定风格迁移
@@ -86,24 +86,24 @@
 支持10种宠物头风格迁移和10种人头风格迁移
 ||
 |:-:|
-|<img src="https://github.com/xuanandsix/myworks/blob/main/images/style/headstylea.gif" height="70%" width="70%">|
-|<img src="https://github.com/xuanandsix/myworks/blob/main/images/style/headstyleb.gif" height="70%" width="70%">|
+|<img src="https://github.com/xuanandsix/myworks/raw/main/images/style/headstylea.gif" height="70%" width="70%">|
+|<img src="https://github.com/xuanandsix/myworks/raw/main/images/style/headstyleb.gif" height="70%" width="70%">|
 
 2、全景人像风格迁移
 
 支持2种全景人像风格迁移
 |||||
 |:-:|:-:|:-:|:-:|
-|<img src="https://github.com/xuanandsix/myworks/blob/main/images/style1/panoramastylea.gif" height=300 width=220>|<img src="https://github.com/xuanandsix/myworks/blob/main/images/style1/panoramastyleb.gif" height=300 width=220>|<img src="https://github.com/xuanandsix/myworks/blob/main/images/style1/panoramastylec.gif" height=300 width=220>|<img src="https://github.com/xuanandsix/myworks/blob/main/images/style1/panoramastyled.gif" height=300 width=220>|
+|<img src="https://github.com/xuanandsix/myworks/raw/main/images/style1/panoramastylea.gif" height=300 width=220>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/style1/panoramastyleb.gif" height=300 width=220>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/style1/panoramastylec.gif" height=300 width=220>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/style1/panoramastyled.gif" height=300 width=220>|
 
 3、背景超分及人脸质量增强
 
 支持人脸修复
 ||||
 |:-:|:-:|:-:|
-|<img src="https://github.com/xuanandsix/myworks/blob/main/images/facesr/facesra.gif" height=300 width=300>|<img src="https://github.com/xuanandsix/myworks/blob/main/images/facesr/facesrb.gif" height=300 width=300>|<img src="https://github.com/xuanandsix/myworks/blob/main/images/facesr/facesrc.gif" height=300 width=300>|
+|<img src="https://github.com/xuanandsix/myworks/raw/main/images/facesr/facesra.gif" height=300 width=300>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/facesr/facesrb.gif" height=300 width=300>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/facesr/facesrc.gif" height=300 width=300>|
 
 支持对不包括人脸的场景超分辨率
 |||
 |:-:|:-:|
-<img src="https://github.com/xuanandsix/myworks/blob/main/images/facesr/facesre.gif" height=320 width=480>|<img src="https://github.com/xuanandsix/myworks/blob/main/images/facesr/facesrf.gif" height=320 width=480>|
+<img src="https://github.com/xuanandsix/myworks/raw/main/images/facesr/facesre.gif" height=320 width=480>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/facesr/facesrf.gif" height=320 width=480>|
