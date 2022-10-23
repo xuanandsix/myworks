@@ -36,9 +36,9 @@
 对卡通风格同样适用(第1行2列展示)，紧贴头部的饰品被视为身体的一部分（第2行3列）
 ||||
 | :-: |:-:|:-:|
-|<img src="https://github.com/xuanandsix/myworks/blob/main/images/detseg/9clsdeta.gif" height="60%" width="60%">|<img src="https://github.com/xuanandsix/myworks/blob/main/images/detseg/9clsdetb.gif" height="60%" width="60%">|<img src="https://github.com/xuanandsix/myworks/blob/main/images/detseg/9clsdetc.gif" height="60%" width="60%">|
-|<img src="https://github.com/xuanandsix/myworks/blob/main/images/detseg/9clsdetd.gif" height="60%" width="60%">|<img src="https://github.com/xuanandsix/myworks/blob/main/images/detseg/9clsdete.gif" height="60%" width="60%">|<img src="https://github.com/xuanandsix/myworks/blob/main/images/detseg/9clsdeti.gif" height="40%" width="40%">|
-|<img src="https://github.com/xuanandsix/myworks/blob/main/images/detseg/9clsdetf.gif" height="60%" width="60%">|<img src="https://github.com/xuanandsix/myworks/blob/main/images/detseg/9clsdetg.gif" height="60%" width="60%">|<img src="https://github.com/xuanandsix/myworks/blob/main/images/detseg/9clsdeth.gif" height="60%" width="60%">|
+|<img src="https://github.com/xuanandsix/myworks/raw/main/images/detseg/9clsdeta.gif" height="60%" width="60%">|<img src="https://github.com/xuanandsix/myworks/raw/main/images/detseg/9clsdetb.gif" height="60%" width="60%">|<img src="https://github.com/xuanandsix/myworks/raw/main/images/detseg/9clsdetc.gif" height="60%" width="60%">|
+|<img src="https://github.com/xuanandsix/myworks/raw/main/images/detseg/9clsdetd.gif" height="60%" width="60%">|<img src="https://github.com/xuanandsix/myworks/raw/main/images/detseg/9clsdete.gif" height="60%" width="60%">|<img src="https://github.com/xuanandsix/myworks/raw/main/images/detseg/9clsdeti.gif" height="40%" width="40%">|
+|<img src="https://github.com/xuanandsix/myworks/raw/main/images/detseg/9clsdetf.gif" height="60%" width="60%">|<img src="https://github.com/xuanandsix/myworks/raw/main/images/detseg/9clsdetg.gif" height="60%" width="60%">|<img src="https://github.com/xuanandsix/myworks/raw/main/images/detseg/9clsdeth.gif" height="60%" width="60%">|
 
 与服务端大模型性能对比
 |目标检测模型|存储大小|mAP(0.5-0.95)|
