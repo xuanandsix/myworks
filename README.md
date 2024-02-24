@@ -4,11 +4,11 @@
 [3D视觉](#3D) [目标检测及语义分割](#classificationANDdetection) [图像超分及风格迁移](#srANDstyle)
 
 ## 3D视觉 <a name="3D"></a>
-1、无序抓取小型轴承套圈
+1、nachi机器人无序抓取小型轴承套圈
 
 待更新
 
-2、抓取大型轴承套圈
+2、fanuc机械人抓取大型轴承套圈
 ||低亮度套圈|
 | :-: |:-:|
 |<img src="https://github.com/xuanandsix/myworks/raw/main/images/grab/0.gif" height="100%" width="100%">|<img src="https://github.com/xuanandsix/myworks/raw/main/images/grab/1.gif" height="100%" width="100%">|
@@ -18,20 +18,25 @@
 
 |点云恢复，获得待抓取套圈的位姿|
 | :-: |
-|<img src="https://github.com/xuanandsix/myworks/raw/main/images/grab/point.png" height="75%" width="75%">|
+|<img src="https://github.com/xuanandsix/myworks/raw/main/images/grab/point.png" height="50%" width="50%">|
 
-2、工业零部件缺陷检测
+|工厂真实使用效果展示|
+| :-: |
+|<img src="https://github.com/xuanandsix/myworks/raw/main/images/grab/grab.gif" height="100%" width="100%">|
+
+清晰流畅视频点击链接下载
+ https://github.com/xuanandsix/myworks/blob/main/images/grab/grab.mp4
 
 ## 目标检测及语义分割 <a name="classificationANDdetection"></a>
 1、工业零部件缺陷检测
 
-（1）电池部分缺陷检测效果展示
+（1）电池产品部分缺陷检测效果展示
 
 |脏污|磕裂|起泡|裂纹|
 | :-: |:-:|:-:|:-:|
 |<img src="https://github.com/xuanandsix/myworks/raw/main/images/dianchi/0.gif" height="100%" width="100%">|<img src="https://github.com/xuanandsix/myworks/raw/main/images/dianchi/1.gif" height="100%" width="100%">|<img src="https://github.com/xuanandsix/myworks/raw/main/images/dianchi/2.gif" height="100%" width="100%">|<img src="https://github.com/xuanandsix/myworks/raw/main/images/dianchi/3.gif" height="100%" width="100%">|
 
-（2）轴承套圈各表面部分缺陷检测效果展示
+（2）轴承套圈产品各表面部分缺陷检测效果展示
 
 主要基于传统图像处理方法
 
@@ -45,7 +50,7 @@ p.s. 蓝色框为产品表面检测区域，红色框为缺陷检测结果且部
 |:-: |:-:|:-: |:-:|
 |<img src="https://github.com/xuanandsix/myworks/raw/main/images/taoquan/4.gif" height="100%" width="100%">|<img src="https://github.com/xuanandsix/myworks/raw/main/images/taoquan/5.gif" height="100%" width="100%">|<img src="https://github.com/xuanandsix/myworks/raw/main/images/taoquan/6.gif" height="100%" width="100%">|<img src="https://github.com/xuanandsix/myworks/raw/main/images/taoquan/8.gif" height="100%" width="100%">|
 
-（3）凸轮表面缺陷检测效果展示
+（3）凸轮产品表面部分缺陷检测效果展示
 
 |磕伤|毛刺|压伤、磕伤|毛刺、锈|
 |:-: |:-:|:-: |:-:|
