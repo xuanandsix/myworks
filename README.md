@@ -9,6 +9,8 @@
 待更新
 
 2、fanuc机械人抓取大型轴承套圈
+
+p.s. 红色表示当前最高层套圈优先抓取，绿色表示其余层，基于策略决定下一个抓取的套圈（高亮显示）。
 ||低亮度套圈|
 | :-: |:-:|
 |<img src="https://github.com/xuanandsix/myworks/raw/main/images/grab/0.gif" height="100%" width="100%">|<img src="https://github.com/xuanandsix/myworks/raw/main/images/grab/1.gif" height="100%" width="100%">|
@@ -32,7 +34,7 @@
 
 （1）电池产品部分缺陷检测效果展示
 
-|脏污|磕裂|起泡|裂纹|
+|脏污|表皮破损|起泡|裂纹|
 | :-: |:-:|:-:|:-:|
 |<img src="https://github.com/xuanandsix/myworks/raw/main/images/dianchi/0.gif" height="100%" width="100%">|<img src="https://github.com/xuanandsix/myworks/raw/main/images/dianchi/1.gif" height="100%" width="100%">|<img src="https://github.com/xuanandsix/myworks/raw/main/images/dianchi/2.gif" height="100%" width="100%">|<img src="https://github.com/xuanandsix/myworks/raw/main/images/dianchi/3.gif" height="100%" width="100%">|
 
