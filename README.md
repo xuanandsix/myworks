@@ -4,9 +4,24 @@
 [3D视觉](#3D) [目标检测及语义分割](#classificationANDdetection) [图像超分及风格迁移](#srANDstyle)
 
 ## 3D视觉 <a name="3D"></a>
-1、nachi机器人无序抓取小型轴承套圈
+1、turin机器人无序抓取轴承套圈
 
-待更新
+（1）套圈检测及点云恢复，位姿估计
+|位姿估计|
+| :-: |
+|<img src="https://github.com/xuanandsix/myworks/blob/main/images/bizhang/wuxu.gif" height="70%" width="70%">|
+
+p.s. 红色检测框表示待抓取套圈，与下仿真抓取的套圈一致。
+
+（2）基于moveit，实现路径规划和避障效果。引导操纵机器人实现任意姿态套圈抓取和放置。
+
+同时设计了长杆手抓完成深框抓取。
+|仿真效果|
+| :-: |
+|<img src="https://github.com/xuanandsix/myworks/blob/main/images/bizhang/bizhang.gif" height="50%" width="50%">|
+
+p.s. 因客户现场禁止带手机，无法展示现场真实效果。夹爪模型因供应商原因做了简化处理。
+
 
 2、fanuc机械人抓取大型轴承套圈
 
@@ -40,17 +55,15 @@ p.s. 红色表示当前最高层套圈优先抓取，绿色表示其余层，基
 
 （2）轴承套圈产品各表面部分缺陷检测效果展示
 
-主要基于传统图像处理方法
-
 p.s. 蓝色框为产品表面检测区域，红色框为缺陷检测结果且部分包围框做了外扩
 
 |亮斑|磕碰|未超精|油污|
 | :-: |:-:|:-:|:-:|
 |<img src="https://github.com/xuanandsix/myworks/raw/main/images/taoquan/0.gif" height="100%" width="100%">|<img src="https://github.com/xuanandsix/myworks/raw/main/images/taoquan/1.gif" height="100%" width="100%">|<img src="https://github.com/xuanandsix/myworks/raw/main/images/taoquan/2.gif" height="100%" width="100%">|<img src="https://github.com/xuanandsix/myworks/raw/main/images/taoquan/3.gif" height="100%" width="100%">|
 
-|车削、暗斑|暗斑|划伤|工件停止|
+|车削、暗斑|暗斑|擦伤|工件停止|
 |:-: |:-:|:-: |:-:|
-|<img src="https://github.com/xuanandsix/myworks/raw/main/images/taoquan/4.gif" height="100%" width="100%">|<img src="https://github.com/xuanandsix/myworks/raw/main/images/taoquan/5.gif" height="100%" width="100%">|<img src="https://github.com/xuanandsix/myworks/raw/main/images/taoquan/6.gif" height="100%" width="100%">|<img src="https://github.com/xuanandsix/myworks/raw/main/images/taoquan/8.gif" height="100%" width="100%">|
+|<img src="https://github.com/xuanandsix/myworks/raw/main/images/taoquan/4.gif" height="100%" width="100%">|<img src="https://github.com/xuanandsix/myworks/raw/main/images/taoquan/5.gif" height="100%" width="100%">|<img src="https://github.com/xuanandsix/myworks/raw/main/images/taoquan/10.gif" height="100%" width="100%">|<img src="https://github.com/xuanandsix/myworks/raw/main/images/taoquan/8.gif" height="100%" width="100%">|
 
 （3）凸轮产品表面部分缺陷检测效果展示
 
@@ -144,6 +157,11 @@ p.s. 蓝色框为产品表面检测区域，红色框为缺陷检测结果且部
 |:-:|
 |<img src="https://github.com/xuanandsix/myworks/raw/main/images/style/headstylea.gif" height="70%" width="70%">|
 |<img src="https://github.com/xuanandsix/myworks/raw/main/images/style/headstyleb.gif" height="70%" width="70%">|
+
+对人头风格图进行动画操作，生成不同姿态表情效果
+||
+|:-:|
+|<img src="https://github.com/xuanandsix/myworks/raw/main/images/style/image_animation.png" height="70%" width="70%">|
 
 2、全景人像风格迁移
 
