@@ -13,9 +13,7 @@
 
 p.s. 红色检测框表示待抓取套圈，与下仿真抓取的套圈一致。
 
-（2）基于moveit，实现路径规划和避障效果。引导操纵机器人实现任意姿态套圈抓取和放置。
-
-同时设计了长杆手抓完成深框抓取。
+（2）路径规划和避障效果。引导操纵机器人实现任意姿态套圈抓取和放置。同时设计了长杆手抓完成深框抓取。
 |仿真效果|
 | :-: |
 |<img src="https://github.com/xuanandsix/myworks/blob/main/images/bizhang/bizhang.gif" height="50%" width="50%">|
@@ -45,7 +43,14 @@ p.s. 红色表示当前最高层套圈优先抓取，绿色表示其余层，基
  https://github.com/xuanandsix/myworks/blob/main/images/grab/grab.mp4
 
 ## 目标检测及语义分割 <a name="classificationANDdetection"></a>
-1、工业零部件缺陷检测
+1、轴承滚子计数及混料检测
+
+实例分割获得轴承滚子个数及面积尺寸，判断数目是否正确，是否混入其他型号。
+|计数及混料检测|
+| :-: |
+|<img src="https://github.com/xuanandsix/myworks/blob/main/images/jishu/jishu.gif" height="60%" width="60%">|
+
+2、工业零部件缺陷检测
 
 （1）电池产品部分缺陷检测效果展示
 
@@ -73,7 +78,7 @@ p.s. 蓝色框为产品表面检测区域，红色框为缺陷检测结果且部
 
 
 
-2、UV打印机视觉定位
+3、UV打印机视觉定位
 
 双摄像头下视觉定位各种类型手机壳
 | 左侧摄像头 | 右侧摄像头 |
@@ -90,14 +95,14 @@ p.s. 蓝色框为产品表面检测区域，红色框为缺陷检测结果且部
 |:-:|
 |<img src="https://github.com/xuanandsix/myworks/raw/main/images/uvdet/phone.jpg" height=346 width=462>|
 
-3、常用商品抠图
+4、常用商品抠图
 
 支持30+种常用商品抠图
 |马克杯|T恤|抱枕|部分遮挡严重下的T恤|
 | :-: |:-:|:-:|:-:|
 |<img src="https://github.com/xuanandsix/myworks/raw/main/images/commodityseg/commoditysega.gif" height="85%" width="85%">|<img src="https://github.com/xuanandsix/myworks/raw/main/images/commodityseg/commoditysegb.gif" height="95%" width="95%">|<img src="https://github.com/xuanandsix/myworks/raw/main/images/commodityseg/commoditysegc.gif" height="100%" width="100%">|<img src="https://github.com/xuanandsix/myworks/raw/main/images/commodityseg/commoditysegd.gif" height="100%" width="100%">|
 
-4、移动端抠图算法
+5、移动端抠图算法
 
 使用更轻量的网络，混合精度训练，结合模型剪枝缩小尺寸，知识蒸馏恢复精度。
 
@@ -127,7 +132,7 @@ p.s. 蓝色框为产品表面检测区域，红色框为缺陷检测结果且部
 |服务端大模型|167M(float32)|96.3%|
 |移动端模型|628K(float16)|95.0%|
 
-5、品牌LOGO检测
+6、品牌LOGO检测
 
 实现500+类品牌LOGO检测
 
@@ -144,7 +149,7 @@ p.s. 蓝色框为产品表面检测区域，红色框为缺陷检测结果且部
 |<img src="https://github.com/xuanandsix/myworks/raw/main/images/logodet/logodetj.gif" height="70%" width="70%">|<img src="https://github.com/xuanandsix/myworks/raw/main/images/logodet/logodetk.gif" height="70%" width="70%">|<img src="https://github.com/xuanandsix/myworks/raw/main/images/logodet/logodetl.gif" height="80%" width="80%">|
 
 
-6、智慧餐盘识别检测
+7、智慧餐盘识别检测
 |餐厅真实使用效果展示|
 |:-:|
 |<img src="https://github.com/xuanandsix/myworks/raw/main/images/platedet/platedet.gif" height="75%" width="75%">|
