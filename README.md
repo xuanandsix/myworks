@@ -77,6 +77,11 @@ p.s. 蓝色框为产品表面检测区域，红色框为缺陷检测结果且部
 |<img src="https://github.com/xuanandsix/myworks/raw/main/images/tulun/0.gif" height="100%" width="100%">|<img src="https://github.com/xuanandsix/myworks/raw/main/images/tulun/1.gif" height="100%" width="100%">|<img src="https://github.com/xuanandsix/myworks/raw/main/images/tulun/2.gif" height="100%" width="100%">|<img src="https://github.com/xuanandsix/myworks/raw/main/images/tulun/3.gif" height="100%" width="100%">|
 
 
+(4) 检测系统真实使用效果
+|检测系统|
+| :-: |
+|<img src="https://github.com/xuanandsix/myworks/blob/main/images/taoquan/dv.gif" height="60%" width="60%">|
+
 
 3、UV打印机视觉定位
 
@@ -182,7 +187,7 @@ p.s. 蓝色框为产品表面检测区域，红色框为缺陷检测结果且部
 |:-:|:-:|:-:|
 |<img src="https://github.com/xuanandsix/myworks/raw/main/images/facesr/facesra.gif" height=300 width=300>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/facesr/facesrb.gif" height=300 width=300>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/facesr/facesrc.gif" height=300 width=300>|
 
-支持对不包括人脸的场景超分辨率
+支持对不包括人脸的场景或动漫风格超分辨率
 |||
 |:-:|:-:|
-<img src="https://github.com/xuanandsix/myworks/raw/main/images/facesr/facesre.gif" height=320 width=480>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/facesr/facesrf.gif" height=320 width=480>|
+<img src="https://github.com/xuanandsix/myworks/raw/main/images/facesr/facesrg.gif" height=320 width=480>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/facesr/facesrf.gif" height=320 width=480>|
