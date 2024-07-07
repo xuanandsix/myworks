@@ -11,7 +11,7 @@
 | :-: |
 |<img src="https://github.com/xuanandsix/myworks/blob/main/images/bizhang/wuxu.gif" height="70%" width="70%">|
 
-p.s. 红色检测框表示待抓取套圈，与下仿真抓取的套圈一致。
+p.s. 红色检测框表示待抓取套圈，与下文仿真抓取的套圈一致。
 
 （2）路径规划和避障效果。引导操纵机器人实现任意姿态套圈抓取和放置。同时设计了长杆手抓完成深框抓取。
 |仿真效果|
