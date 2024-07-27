@@ -1,7 +1,7 @@
 # myworks
-个人作品集，包括3D视觉，目标检测，语义分割，图像超分，风格迁移等方向
+个人作品集，包括3D视觉，目标检测，语义分割，图像修复，生成，风格迁移等方向
 
-[3D视觉](#3D) [目标检测及语义分割](#classificationANDdetection) [图像超分及风格迁移](#srANDstyle)
+[3D视觉](#3D) [目标检测及语义分割](#classificationANDdetection) [图像修复，风格化生成](#srANDstyle)
 
 ## 3D视觉 <a name="3D"></a>
 1、turin机器人无序抓取轴承套圈
@@ -191,3 +191,10 @@ p.s. 蓝色框为产品表面检测区域，红色框为缺陷检测结果且部
 |||
 |:-:|:-:|
 <img src="https://github.com/xuanandsix/myworks/raw/main/images/facesr/facesrg.gif" height=320 width=480>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/facesr/facesrf.gif" height=320 width=480>|
+
+4、图像生成
+|LoRa微调||||
+|:-:|:-:|:-:|:-:|
+|饥荒游戏人物风格|<img src="https://github.com/xuanandsix/myworks/raw/main/images/sd/0-1.png" height=250 width=250>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/sd/0-2.png" height=250 width=250>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/sd/0-3.png" height=250 width=250>|
+|特定人物多风格|<img src="https://github.com/xuanandsix/myworks/raw/main/images/sd/1-2.png" height=250 width=250>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/sd/1-3.png" height=250 width=250>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/sd/1-4.png" height=250 width=250>|
+|插画风格风景建筑|<img src="https://github.com/xuanandsix/myworks/raw/main/images/sd/2-1.png" height=350 width=250>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/sd/2-2.png" height=350 width=250>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/sd/2-3.png" height=350 width=250>|
