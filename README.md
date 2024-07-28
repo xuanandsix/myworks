@@ -7,6 +7,8 @@
 1、turin机器人无序抓取轴承套圈
 
 （1）套圈检测及点云恢复，位姿估计
+
+识别多个候选套圈
 |位姿估计|
 | :-: |
 |<img src="https://github.com/xuanandsix/myworks/blob/main/images/bizhang/wuxu.gif" height="70%" width="70%">|
@@ -196,9 +198,9 @@ p.s. 蓝色框为产品表面检测区域，红色框为缺陷检测结果且部
 文生图
 |LoRa微调||||
 |:-:|:-:|:-:|:-:|
-|美式黑白线条风格|<img src="https://github.com/xuanandsix/myworks/raw/main/images/sd/3-1.png" height=250 width=250>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/sd/3-2.png" height=250 width=250>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/sd/3-3.png" height=250 width=250>|
-|复古卡通风格|<img src="https://github.com/xuanandsix/myworks/raw/main/images/sd/4-1.png" height=250 width=250>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/sd/4-2.png" height=250 width=250>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/sd/4-3.png" height=250 width=250>|
-|插画风格风景建筑|<img src="https://github.com/xuanandsix/myworks/raw/main/images/sd/2-1.png" height=350 width=250>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/sd/2-2.png" height=350 width=250>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/sd/2-3.png" height=350 width=250>|
-|饥荒游戏人物风格|<img src="https://github.com/xuanandsix/myworks/raw/main/images/sd/0-1.png" height=250 width=250>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/sd/0-2.png" height=250 width=250>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/sd/0-3.png" height=250 width=250>|
+|美式黑白线条|<img src="https://github.com/xuanandsix/myworks/raw/main/images/sd/3-1.png" height=250 width=250>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/sd/3-2.png" height=250 width=250>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/sd/3-3.png" height=250 width=250>|
+|复古卡通|<img src="https://github.com/xuanandsix/myworks/raw/main/images/sd/4-1.png" height=250 width=250>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/sd/4-2.png" height=250 width=250>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/sd/4-3.png" height=250 width=250>|
+|插画风格|<img src="https://github.com/xuanandsix/myworks/raw/main/images/sd/2-1.png" height=350 width=250>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/sd/2-2.png" height=350 width=250>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/sd/2-3.png" height=350 width=250>|
+|饥荒游戏风格|<img src="https://github.com/xuanandsix/myworks/raw/main/images/sd/0-1.png" height=250 width=250>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/sd/0-2.png" height=250 width=250>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/sd/0-3.png" height=250 width=250>|
 |特定人物多风格|<img src="https://github.com/xuanandsix/myworks/raw/main/images/sd/1-5.png" height=250 width=250>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/sd/1-3.png" height=250 width=250>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/sd/1-4.png" height=250 width=250>|
 
