@@ -196,7 +196,7 @@ p.s. 蓝色框为产品表面检测区域，红色框为缺陷检测结果且部
 
 4、图像生成
 文生图
-|LoRa微调||||
+|LoRA微调||||
 |:-:|:-:|:-:|:-:|
 |美式黑白线条|<img src="https://github.com/xuanandsix/myworks/raw/main/images/sd/3-1.png" height=250 width=250>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/sd/3-2.png" height=250 width=250>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/sd/3-3.png" height=250 width=250>|
 |复古卡通|<img src="https://github.com/xuanandsix/myworks/raw/main/images/sd/4-1.png" height=250 width=250>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/sd/4-2.png" height=250 width=250>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/sd/4-3.png" height=250 width=250>|
