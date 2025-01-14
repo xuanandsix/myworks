@@ -1,7 +1,9 @@
 ## 图像修复，生成，风格化 <a name="srANDstyle"></a>
-1、文生图
+## 1、虚拟试衣
 
-### AI分身
+## 2、文生图
+
+### 定制AI分身
 使用少量相同人物数据进行快速训练，获得定制化AI写真模型，生成人物在各种场景图片。
 |训练参考图|AI效果|AI效果|AI效果|
 |:-:|:-:|:-:|:-:|
@@ -13,12 +15,9 @@
 |<img src="https://github.com/xuanandsix/myworks/raw/main/images/AI_clone/weman.jpg" height=200 width=150>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/AI_clone/weman_0.png" height=200 width=200>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/AI_clone/weman_1.png" height=200 width=200>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/AI_clone/weman_2.png" height=200 width=200>|
 ||<img src="https://github.com/xuanandsix/myworks/raw/main/images/AI_clone/weman_3.png" height=200 width=200>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/AI_clone/weman_4.png" height=200 width=200>|
 
+## 3、视频换脸
 
-2、虚拟试衣
-
-3、视频换脸
-
-4、宠物头及人头特定风格迁移
+## 5、宠物头及人头特定风格迁移
 
 支持10种宠物头风格迁移和10种人头风格迁移
 ||
@@ -31,14 +30,14 @@
 |:-:|
 |<img src="https://github.com/xuanandsix/myworks/raw/main/images/style/image_animation.png" height="70%" width="70%">|
 
-4、全景人像风格迁移
+## 6、全景人像风格迁移
 
 支持2种全景人像风格迁移
 |||||
 |:-:|:-:|:-:|:-:|
 |<img src="https://github.com/xuanandsix/myworks/raw/main/images/style1/panoramastylea.gif" height=300 width=220>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/style1/panoramastyleb.gif" height=300 width=220>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/style1/panoramastylec.gif" height=300 width=220>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/style1/panoramastyled.gif" height=300 width=220>|
 
-5、背景超分及人脸质量增强
+## 7、背景超分及人脸质量增强
 
 支持人脸修复
 ||||
@@ -50,7 +49,7 @@
 |:-:|:-:|
 <img src="https://github.com/xuanandsix/myworks/raw/main/images/facesr/facesrg.gif" height=320 width=480>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/facesr/facesrf.gif" height=320 width=480>|
 
-6、图像生成
+## 8、图像生成
 文生图
 |LoRA微调||||
 |:-:|:-:|:-:|:-:| 
