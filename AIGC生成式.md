@@ -7,13 +7,13 @@
 使用少量相同人物数据进行快速训练，获得定制化AI写真模型，生成人物在各种场景图片。
 |训练参考图|AI效果|AI效果|AI效果|
 |:-:|:-:|:-:|:-:|
-|<img src="https://github.com/xuanandsix/myworks/raw/main/images/AI_clone/man_human.jpg" height=200 width=150>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/AI_clone/man_0.png" height=200 width=200>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/AI_clone/man_1.png" height=200 width=200>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/AI_clone/man_2.png" height=200 width=200>|
-||<img src="https://github.com/xuanandsix/myworks/raw/main/images/AI_clone/man_3.png" height=200 width=200>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/AI_clone/man_5.png" height=200 width=200>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/AI_clone/man_4.png" height=200 width=200>|
+|<img src="https://github.com/xuanandsix/myworks/raw/main/images/AI_clone/man_human.jpg" height=200 width=150>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/AI_clone/man_0.png" height=220 width=220>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/AI_clone/man_1.png" height=220 width=220>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/AI_clone/man_2.png" height=220 width=220>|
+||<img src="https://github.com/xuanandsix/myworks/raw/main/images/AI_clone/man_3.png" height=220 width=220>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/AI_clone/man_5.png" height=220 width=220>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/AI_clone/man_4.png" height=220 width=220>|
 
 |训练参考图|AI效果|AI效果|AI效果|
 |:-:|:-:|:-:|:-:|
-|<img src="https://github.com/xuanandsix/myworks/raw/main/images/AI_clone/weman.jpg" height=200 width=150>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/AI_clone/weman_0.png" height=200 width=200>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/AI_clone/weman_1.png" height=200 width=200>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/AI_clone/weman_2.png" height=200 width=200>|
-||<img src="https://github.com/xuanandsix/myworks/raw/main/images/AI_clone/weman_3.png" height=200 width=200>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/AI_clone/weman_5.png" height=200 width=200>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/AI_clone/weman_4.png" height=200 width=200>|
+|<img src="https://github.com/xuanandsix/myworks/raw/main/images/AI_clone/weman.jpg" height=200 width=150>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/AI_clone/weman_0.png" height=220 width=220>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/AI_clone/weman_1.png" height=220 width=220>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/AI_clone/weman_2.png" height=220 width=220>|
+||<img src="https://github.com/xuanandsix/myworks/raw/main/images/AI_clone/weman_3.png" height=220 width=220>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/AI_clone/weman_5.png" height=220 width=220>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/AI_clone/weman_4.png" height=220 width=220>|
 
 ## 3、视频换脸
 
