@@ -16,6 +16,13 @@
 ||<img src="https://github.com/xuanandsix/myworks/raw/main/images/AI_clone/weman_3.png" height=220 width=220>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/AI_clone/weman_5.png" height=220 width=220>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/AI_clone/weman_4.png" height=220 width=220>|
 
 ## 3、视频换脸
+给定每个角色一张参考人脸，对经典影视剧片段进行担任或多人视频换脸。
+|参考人脸|换脸效果|
+|:-:|:-:|
+|<img src="https://github.com/xuanandsix/myworks/raw/main/images/faceswap/0.jpeg" height=200 width=300>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/faceswap/0.gif" height=300 width=533>|
+|<img src="https://github.com/xuanandsix/myworks/raw/main/images/faceswap/1.jpg" height=300 width=200>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/faceswap/1.gif" height=300 width=533>|
+|<img src="https://github.com/xuanandsix/myworks/raw/main/images/faceswap/2.jpg" height=300 width=300>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/faceswap/2.gif" height=300 width=533>|
+|<img src="https://github.com/xuanandsix/myworks/raw/main/images/faceswap/3.jpeg" height=180 width=300>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/faceswap/11.gif" height=300 width=533>|
 
 ## 5、宠物头及人头特定风格迁移
 
