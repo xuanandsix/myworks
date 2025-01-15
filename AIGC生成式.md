@@ -1,6 +1,16 @@
 ## 图像修复，生成，风格化 <a name="srANDstyle"></a>
 ## 1、虚拟试衣
 
+各种场景，款式下的虚拟试衣，文字和图案恢复效果好。
+|模特|服装|试衣效果|
+|:-:|:-:|:-:|
+|<img src="https://github.com/xuanandsix/myworks/raw/main/images/tryon/4_image.png" height=250 width=200>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/tryon/4_cloth.png" height=250 width=200>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/tryon/4_tryon.png" height=250 width=200>|
+|<img src="https://github.com/xuanandsix/myworks/raw/main/images/tryon/5_image.jpg" height=250 width=200>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/tryon/5_cloth.jpg" height=250 width=200>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/tryon/5_tryon.jpg" height=250 width=200>|
+|<img src="https://github.com/xuanandsix/myworks/raw/main/images/tryon/0_image.png" height=250 width=200>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/tryon/0_cloth.png" height=250 width=200>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/tryon/0_tryon.png" height=250 width=200>|
+|<img src="https://github.com/xuanandsix/myworks/raw/main/images/tryon/1_image.png" height=250 width=200>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/tryon/1_cloth.png" height=250 width=200>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/tryon/1_tryon.png" height=250 width=200>|
+|<img src="https://github.com/xuanandsix/myworks/raw/main/images/tryon/2_image.png" height=250 width=200>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/tryon/2_cloth.png" height=250 width=200>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/tryon/2_tryon.png" height=250 width=200>|
+|<img src="https://github.com/xuanandsix/myworks/raw/main/images/tryon/3_image.png" height=250 width=200>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/tryon/3_cloth.png" height=250 width=200>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/tryon/3_tryon.png" height=250 width=200>|
+
 ## 2、文生图
 
 ### 定制AI分身
@@ -24,7 +34,7 @@
 |<img src="https://github.com/xuanandsix/myworks/raw/main/images/faceswap/2.jpg" height=300 width=300>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/faceswap/2.gif" height=300 width=533>|
 |<img src="https://github.com/xuanandsix/myworks/raw/main/images/faceswap/3.jpeg" height=180 width=300>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/faceswap/11.gif" height=300 width=533>|
 
-## 5、宠物头及人头特定风格迁移
+## 4、宠物头及人头特定风格迁移
 
 支持10种宠物头风格迁移和10种人头风格迁移
 ||
@@ -37,14 +47,14 @@
 |:-:|
 |<img src="https://github.com/xuanandsix/myworks/raw/main/images/style/image_animation.png" height="70%" width="70%">|
 
-## 6、全景人像风格迁移
+## 5、全景人像风格迁移
 
 支持2种全景人像风格迁移
 |||||
 |:-:|:-:|:-:|:-:|
 |<img src="https://github.com/xuanandsix/myworks/raw/main/images/style1/panoramastylea.gif" height=300 width=220>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/style1/panoramastyleb.gif" height=300 width=220>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/style1/panoramastylec.gif" height=300 width=220>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/style1/panoramastyled.gif" height=300 width=220>|
 
-## 7、背景超分及人脸质量增强
+## 6、背景超分及人脸质量增强
 
 支持人脸修复
 ||||
@@ -55,13 +65,3 @@
 |||
 |:-:|:-:|
 <img src="https://github.com/xuanandsix/myworks/raw/main/images/facesr/facesrg.gif" height=320 width=480>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/facesr/facesrf.gif" height=320 width=480>|
-
-## 8、图像生成
-文生图
-|LoRA微调||||
-|:-:|:-:|:-:|:-:| 
-|美式黑白线条|<img src="https://github.com/xuanandsix/myworks/raw/main/images/sd/3-1.png" height=250 width=250>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/sd/3-2.png" height=250 width=250>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/sd/3-3.png" height=250 width=250>|
-|复古卡通|<img src="https://github.com/xuanandsix/myworks/raw/main/images/sd/4-1.png" height=250 width=250>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/sd/4-2.png" height=250 width=250>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/sd/4-3.png" height=250 width=250>|
-|插画风格|<img src="https://github.com/xuanandsix/myworks/raw/main/images/sd/2-1.png" height=350 width=250>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/sd/2-2.png" height=350 width=250>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/sd/2-3.png" height=350 width=250>|
-|饥荒游戏风格|<img src="https://github.com/xuanandsix/myworks/raw/main/images/sd/0-1.png" height=250 width=250>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/sd/0-2.png" height=250 width=250>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/sd/0-3.png" height=250 width=250>|
-|特定人物多风格|<img src="https://github.com/xuanandsix/myworks/raw/main/images/sd/1-5.png" height=250 width=250>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/sd/1-3.png" height=250 width=250>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/sd/1-4.png" height=250 width=250>|
