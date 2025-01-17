@@ -10,7 +10,7 @@
 |<img src="https://github.com/xuanandsix/myworks/raw/main/images/tryon/1_image.png" height=250 width=200>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/tryon/1_cloth.png" height=250 width=200>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/tryon/1_tryon.png" height=250 width=200>|
 |<img src="https://github.com/xuanandsix/myworks/raw/main/images/tryon/2_image.png" height=250 width=200>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/tryon/2_cloth.png" height=250 width=200>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/tryon/2_tryon.png" height=250 width=200>|
 |<img src="https://github.com/xuanandsix/myworks/raw/main/images/tryon/3_image.png" height=250 width=200>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/tryon/3_cloth.png" height=250 width=200>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/tryon/3_tryon.png" height=250 width=200>|
-|<img src="https://github.com/xuanandsix/myworks/raw/main/images/tryon/6_image.jpg" height=250 width=200>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/tryon/6_cloth.png" height=200 width=200>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/tryon/6_tryon.png" height=250 width=200>|
+|<img src="https://github.com/xuanandsix/myworks/raw/main/images/tryon/6_image.jpg" height=250 width=200>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/tryon/6_cloth.png" height=200 width=200>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/tryon/0.png" height=250 width=200>|
 
 ## 2、文生图
 
