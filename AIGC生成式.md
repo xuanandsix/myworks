@@ -27,9 +27,12 @@
 ||<img src="https://github.com/xuanandsix/myworks/raw/main/images/AI_clone/weman_3.png" height=220 width=220>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/AI_clone/weman_5.png" height=220 width=220>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/AI_clone/weman_4.png" height=220 width=220>|
 
 ### 主体、风格话lora等模型
-自己训练的模型，发布在Liblib平台上，可前往平台上体验。
+近期自己训练的模型，发布在Liblib平台上，可前往平台上体验。
 
 https://www.liblib.art/userpage/5e12776bf0a140d0962a00293aac86a2/publish
+||
+|:-:|
+|<img src="https://github.com/xuanandsix/myworks/raw/main/images/sd/lib.png" height="100%" width="100%">|
 
 ## 3、视频换脸
 给定每个角色一张参考人脸，对经典影视剧片段进行单人或多人的视频换脸。
