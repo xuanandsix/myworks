@@ -26,7 +26,7 @@
 |<img src="https://github.com/xuanandsix/myworks/raw/main/images/AI_clone/weman.jpg" height=200 width=150>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/AI_clone/weman_0.png" height=220 width=220>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/AI_clone/weman_1.png" height=220 width=220>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/AI_clone/weman_2.png" height=220 width=220>|
 ||<img src="https://github.com/xuanandsix/myworks/raw/main/images/AI_clone/weman_3.png" height=220 width=220>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/AI_clone/weman_5.png" height=220 width=220>|<img src="https://github.com/xuanandsix/myworks/raw/main/images/AI_clone/weman_4.png" height=220 width=220>|
 
-### 主体、风格话lora等模型
+### 主体、风格化lora等模型
 近期自己训练的模型，发布在Liblib平台上，可前往平台上体验。
 
 https://www.liblib.art/userpage/5e12776bf0a140d0962a00293aac86a2/publish
